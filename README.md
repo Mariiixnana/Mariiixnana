@@ -19,7 +19,8 @@ Tengo un espacio dedicado a la divulgación científica y tecnológica donde com
 ## 🚀 Nuevos Proyectos
 Actualmente, estoy expandiendo mis líneas de investigación y desarrollo con un nuevo enfoque:
 * **Computación en Anomalías Congénitas:** Desarrollo de software y sistemas expertos basados en reglas lógicas para la detección temprana y evaluación de riesgos prenatales, utilizando variables clínicas, antecedentes y biomarcadores.
-
+👉[Evaluador de anomalías congénitas](https://evaluador-prenatal-afp.netlify.app/)
+👉[Recopilador de información](https://docs.google.com/spreadsheets/d/1l-J2eEVJxzo7IDz4hvw7pvr3e3SUCfBbhTK7sZFHdQY/edit?gid=0&urp=gmail_link#gid=0)
 ---
 
 ## 🛠️ Tecnologías y Herramientas en Desarrollo
